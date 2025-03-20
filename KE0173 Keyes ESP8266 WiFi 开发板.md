@@ -198,6 +198,5 @@ void loop() {
 
 ## 14. 参考链接
 - [Keyes 官方网站](http://www.keyes-robot.com)  
-- [Keyes 天猫旗舰店](https://keyes.tmall.com)  
 - [ESP8266 官方文档](https://arduino-esp8266.readthedocs.io/en/latest/)  
 - [Arduino 官方网站](https://www.arduino.cc)  
