@@ -55,7 +55,7 @@
 	![image-20250317113710705](media/image-20250317113710705.png)
 
 **固件的烧录方法**  
-1. 将 ESP8266 WIFI 模块（KS0329）直接连接到电脑 USB 端口，拨码开关拨到 **Uart Download** 端。
+1. 将 ESP8266 WIFI 模块（KS0339）直接连接到电脑 USB 端口，拨码开关拨到 **Uart Download** 端。
 
 	![image-20250317113736419](media/image-20250317113736419.png)
 
